@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="move1">-</string>
+    <string name="move2">-</string>
+    <string name="move3">-</string>
+    <string name="move4">-</string>
+    <string name="move5">-</string>
+    <string name="move6">-</string>
+    <string name="move7">-</string>
+    <string name="move8">-</string>
+    <string name="move9">-</string>
+</resources>
